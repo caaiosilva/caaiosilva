@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Oi! Sou um desenvolvedor em formação, focado em **HTML, CSS e JavaScript**.  <br>Estou sempre buscando aprender e melhorar minhas habilidades, seja criando interfaces responsivas ou explorando outras áreas do desenvolvimento.<br><br>Além de programar, sou fã de **pixel art** e adoro me desafiar em novas criações.  <br>Estou aberto a projetos e novas conexões. Vamos conversar!</p>
+<p align="left">Oi! Sou um desenvolvedor em formação, focado em **HTML, CSS e JavaScript**.  <br>Estou sempre buscando aprender e melhorar minhas habilidades, seja criando interfaces responsivas ou explorando outras áreas do desenvolvimento.<br><br></p>
 
 ###
 
